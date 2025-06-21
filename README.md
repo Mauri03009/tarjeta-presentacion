@@ -12,7 +12,7 @@ Este proyecto es una página web personal desarrollada con un uso básico/inicia
 ## 🛠 Tecnologías Utilizadas
 
 - HTML5
-- CSS3
+- CSS
 
 ## 💻 Vista Previa
 
