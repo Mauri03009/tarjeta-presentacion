@@ -26,6 +26,11 @@ section{
 img{
     border-radius: 100px;    
     border: 2px solid white;     
+    
+}
+
+img:hover{
+    box-shadow: 0 4px 60px rgba(0, 0, 0, 0.75);
 }
 
 .about-me h1{
